@@ -1,4 +1,4 @@
-package go_blockchain
+package main
 
 type Block struct {
 	Data        Data
